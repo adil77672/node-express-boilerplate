@@ -5,7 +5,6 @@ node_modules
 yarn-error.log
 
 # Environment varibales
-.env*
 !.env*.example
 
 # Code coverage
@@ -13,3 +12,4 @@ coverage
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
